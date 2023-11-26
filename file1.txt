@@ -2,4 +2,7 @@
  소트트리 GUI와CLI 실습 비교
 14_third_cli_exe1
 14_fourth_cli_exe2
+
 some hot fix add 
+깃허브 기능1 추가
+
